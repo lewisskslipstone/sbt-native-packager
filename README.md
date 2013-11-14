@@ -94,7 +94,7 @@ Once you've configured your packaging how you like it, you can run the following
 * `universal:packageBin` - Creates the universal `zip` distribution
 * `windows:packageBin` - Creates the windows `msi` file.
 * `debian:packageBin` - Creates the debian `deb` file.
-* `rpm:packageBin` - Creates the redhast `rpm` file.
+* `rpm:packageBin` - Creates the redhat `rpm` file.
 
 
 ### Publishing to bintray ###
